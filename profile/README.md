@@ -21,7 +21,7 @@ The reference implementation of continuous provenance.
 transformed, it records — in a tamper-evident form — _who received what, what was done to it, and
 what was passed on_ — and binds each record to the one before it into a single verifiable **line**.
 
-Anyone can verify that line independently, across organizations, with no shared anchor of trust.
+Anyone can verify that line independently, across organizations — without a central trust authority.
 A convincing point is cheap to forge; a connected line is not — it would take the keys of every
 boundary it crossed and consistency with records already held downstream.
 
