@@ -72,7 +72,7 @@ implementation.
 
 **Working proof-of-concept — versioned, measured, and evaluated in public.**
 
-- [provin oss v0.3.0](https://github.com/provin-line/oss) — the revision line evaluated in Paper 04
+- [provin oss v0.3.0](https://github.com/provin-line/oss) — the revision line evaluated in the systems paper
 - [dPLaaX spec v0.1 draft](https://github.com/dplaax/spec) — public review welcome
-- Position paper #4 — acceptance decisions at delivery time, evaluated on
+- Systems paper — acceptance decisions at delivery time, evaluated on
   public snapshots _(forthcoming)_
