@@ -45,6 +45,7 @@ pipelines.
 | [**e2e**](https://github.com/provin-line/e2e) | Three-organization end-to-end tests: forge a payload mid-chain, watch delivery stop. |
 | [**bench**](https://github.com/provin-line/bench) | The gate-scaling measurement harness — where the µs/credential numbers come from. |
 | [**auth**](https://github.com/provin-line/auth) | DID-grant auth provider + reference policy verifier for the fail-closed node. |
+| [**site**](https://github.com/provin-line/site) | [www.provin.dev](https://www.provin.dev) — the public-facing site. |
 
 Self-hosting? [`oss/deploy/quickstart`](https://github.com/provin-line/oss/tree/main/deploy/quickstart)
 stands up the full authenticated stack — provider, policy verifier, node, NATS —
